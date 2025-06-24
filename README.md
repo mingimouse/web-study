@@ -7,7 +7,7 @@
 ## 1. Content
 <table>
   <tr>
-    <th style="width: 80px;">이름</th>
+    <th style="width: 20%;">이름</th>
     <th>설명</th>
   </tr>
   <tr>
