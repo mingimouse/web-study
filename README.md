@@ -11,9 +11,9 @@
 ## 1. Content
 
 | HTML                                        | CSS                                        | JavaScript                       | React | MySQL | Node.js |
-|---------------------------------------------|--------------------------------------------|----------------------------------| ----- | ----- | ------- |
-| <img src="./img/icon/html.png" width="180px"> | <img src="./img/icon/css.png" width="300px"> | <img src="./img/icon/javascript.png" width="100px"> | <img src="./img/icon/react.png" width="200px"> | <img src="./img/icon/mysql.png" width="200px"> | <img src="./img/icon/nodejs.png" width="200px"> |
-| 웹 페이지의 뼈대를 구성하는 언어                          | 웹 페이지에 스타일을 부여하는 언어                        | 웹 페이지가 사용자와 상호작용할 수 있도록 만들어 주는 언어 | 프런트엔드 프레임워크 | 데이터베이스 | 백엔드 프레임워크 |
+|:-------------------------------------------:|:------------------------------------------:|:--------------------------------:| :---: | :---: | :-----: |
+| <img src="./img/icon/html.png" width="180px"> | <img src="./img/icon/css.png" width="300px"> | <img src="./img/icon/javascript.png" width="80px"> | <img src="./img/icon/react.png" width="200px"> | <img src="./img/icon/mysql.png" width="200px"> | <img src="./img/icon/nodejs.png" width="200px"> |
+| 웹 페이지의 뼈대를 구성                          | 웹 페이지에 스타일을 부여                     | 웹 페이지가 사용자와 상호작용할 수 있도록 지원 | 프런트엔드 프레임워크 | 데이터베이스 | 백엔드 프레임워크 |
 
 <br>
 
