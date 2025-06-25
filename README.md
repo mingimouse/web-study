@@ -12,14 +12,14 @@
 
 | HTML                                        | CSS                                        | JavaScript                       | React | MySQL | Node.js |
 |:-------------------------------------------:|:------------------------------------------:|:--------------------------------:| :---: | :---: | :-----: |
-| <img src="./img/icon/html.png" width="180px"> | <img src="./img/icon/css.png" width="300px"> | <img src="./img/icon/javascript.png" width="80px"> | <img src="./img/icon/react.png" width="200px"> | <img src="./img/icon/mysql.png" width="200px"> | <img src="./img/icon/nodejs.png" width="200px"> |
+| <img src="./img/icon/html.png" width="200px"> | <img src="./img/icon/css.png" width="300px"> | <img src="./img/icon/javascript.png" width="80px"> | <img src="./img/icon/react.png" width="200px"> | <img src="./img/icon/mysql.png" width="200px"> | <img src="./img/icon/nodejs.png" width="200px"> |
 | 웹 페이지의 뼈대를 구성                          | 웹 페이지에 스타일을 부여                     | 웹 페이지가 사용자와 상호작용할 수 있도록 지원 | 프런트엔드 프레임워크 | 데이터베이스 | 백엔드 프레임워크 |
 
 <br>
 
 ## 2. 실습 결과
 
-### 2-1. HTML 실습 결과 | 웹 페이지 뼈대 구성
+### 2-1. `HTML 실습 결과` | 웹 페이지 뼈대 구성
 
 ![html1](./img/html1.png)<br>
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 2-2. CSS 실습 결과 | 스타일 부여, 반응형 디자인
+### 2-2. `CSS 실습 결과` | 스타일 부여, 반응형 디자인
 
 ![css1](./img/css1.png)<br>
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 2-3. JavaScript 실습 결과 | 다크모드, 라이트모드
+### 2-3. `JavaScript 실습 결과` | 다크모드, 라이트모드
 
 ![js1](./img/js-result1.png)<br>
 
