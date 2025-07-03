@@ -13,7 +13,7 @@
 | HTML                                        | CSS                                        | JavaScript                       | React | MySQL | Node.js |
 |:-------------------------------------------:|:------------------------------------------:|:--------------------------------:| :---: | :---: | :-----: |
 | <img src="./img/icon/html.png" width="200px"> | <img src="./img/icon/css.png" width="300px"> | <img src="./img/icon/javascript.png" width="80px"> | <img src="./img/icon/react.png" width="200px"> | <img src="./img/icon/mysql.png" width="200px"> | <img src="./img/icon/nodejs.png" width="200px"> |
-| 웹 페이지의 뼈대를 구성                          | 웹 페이지에<br>스타일을 부여                 | 웹 페이지와 사용자의<br>상호작용을 지원 | 프런트엔드<br> 프레임워크 | 데이터베이스 | 백엔드<br>프레임워크 |
+| 웹 페이지의 뼈대를 구성                          | 웹 페이지에 스타일을 부여                | 웹 페이지와 사용자의 상호작용을 지원 | 프런트엔드 프레임워크 | 데이터베이스 | 백엔드 프레임워크 |
 
 <br>
 
@@ -45,5 +45,5 @@
 
 ---
 
-### 2-4. React 실습 결과
+
 
